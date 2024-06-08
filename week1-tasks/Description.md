@@ -71,7 +71,7 @@ if __name__ == "__main__":
 ```
 
 #### Step 2 
- Open your terminal (or command prompt).
+ Open your terminal or command prompt.
 #### Step 3
  Navigate to the directory where the script is saved.
 #### Step 4
