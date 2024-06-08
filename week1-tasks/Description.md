@@ -10,8 +10,8 @@ This Python script is a command-line tool for generating random passwords with c
 4> Simple and easy-to-use command-line interface.
 
 ### How to Run
-step 1> Save the script in a file --- >>  random_password_generator.py.<br />
-step 2> Open your terminal (or command prompt).<br />
+step 1> Save the script in a file --- >>  eg. random_password_generator.py.<br />
+step 2> Open your terminal or command prompt.<br />
 step 3> Navigate to the directory where the script is saved.<br />
 step 4> Run the script with the desired options.<br />
 
