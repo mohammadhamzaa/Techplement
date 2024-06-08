@@ -17,7 +17,7 @@ step 4> Run the script with the desired options.<br />
 
 
 #### Step 1
-##### Python Code file ( eg. random_password_generator.py )
+##### Python Code  ( eg. random_password_generator.py )
 
 ```
 import random
